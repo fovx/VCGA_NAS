@@ -16,4 +16,4 @@ the traditional positional encoding mechanism was replaced with
 a Conv1D layer. This change alone significantly boosted the
 performance of the existing Transformer model.
 
-![overall process](https://github.com/user-attachments/assets/d8c2ca79-9257-4100-a478-85203b808b67)
+![image](https://github.com/user-attachments/assets/d46917d2-3977-41b9-87a2-418d15c6fe43)
