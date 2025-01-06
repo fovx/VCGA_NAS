@@ -1,8 +1,6 @@
 # VCGA_NAS
 Time series data automl using variable chromosome genetic algorithm 
 
-#Abstract
-
 We propose an enhanced Neural Architecture
 Search (NAS) algorithm for time-series data using the Variable
 Chromosome Genetic Algorithm (VCGA). VCGA introduces a
@@ -17,3 +15,5 @@ novel architecture based on an encoder-only Transformer, where
 the traditional positional encoding mechanism was replaced with
 a Conv1D layer. This change alone significantly boosted the
 performance of the existing Transformer model.
+
+![overall process](https://github.com/user-attachments/assets/d8c2ca79-9257-4100-a478-85203b808b67)
